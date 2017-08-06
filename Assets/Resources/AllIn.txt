@@ -1,0 +1,8 @@
+Move with W A S D or directional key	
+Jump with Spacebar	
+Move your mouse for a better vision	
+Jump on the elevator in the right time!		
+Jump when you run on the ice to higher and longer jumps		
+Burn ice with Left mouse button or left CTRL	
+Shut off fire with Right mouse button or left ALT		
+Continue to go forward for finish the level. Good Luck!

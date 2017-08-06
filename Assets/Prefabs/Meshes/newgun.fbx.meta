@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: a8b798167a5e7374a970a68b70e5841a
+timeCreated: 1433953218
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bone
+    100002: Bone_end
+    100004: Cube
+    100006: Cylinder
+    100008: Cylinder.001
+    100010: Cylinder.005
+    100012: Cylinder.005_MeshPart0
+    100014: Cylinder.005_MeshPart1
+    100016: Main
+    100018: //RootNode
+    100020: Portal Gun Rig
+    100022: WGT _Slide
+    100024: WGT_Main
+    400000: Bone
+    400002: Bone_end
+    400004: Cube
+    400006: Cylinder
+    400008: Cylinder.001
+    400010: Cylinder.005
+    400012: Cylinder.005_MeshPart0
+    400014: Cylinder.005_MeshPart1
+    400016: Main
+    400018: //RootNode
+    400020: Portal Gun Rig
+    400022: WGT _Slide
+    400024: WGT_Main
+    2300000: Cube
+    2300002: Cylinder
+    2300004: Cylinder.001
+    2300006: Cylinder.005_MeshPart0
+    2300008: Cylinder.005_MeshPart1
+    2300010: WGT _Slide
+    2300012: WGT_Main
+    3300000: Cube
+    3300002: Cylinder
+    3300004: Cylinder.001
+    3300006: Cylinder.005_MeshPart0
+    3300008: Cylinder.005_MeshPart1
+    3300010: WGT _Slide
+    3300012: WGT_Main
+    4300000: WGT _Slide
+    4300002: WGT_Main
+    4300004: Cylinder.005_MeshPart0
+    4300006: Cylinder.005_MeshPart1
+    4300008: Cube
+    4300010: Cylinder.001
+    4300012: Cylinder
+    7400000: WGT _Slide|GunShoot
+    7400002: WGT _Slide|Portal Gun RigAction
+    7400004: WGT_Main|GunShoot
+    7400006: WGT_Main|Portal Gun RigAction
+    7400008: Portal Gun Rig|GunShoot
+    7400010: GunShooting
+    7400012: Portal Gun Rig|GunShooting.001
+    7400014: Portal Gun Rig|Portal Gun RigAction
+    7400016: Portal Gun Rig|Portal Gun RigAction.001
+    7400018: Cylinder.005|GunShoot
+    7400020: Cylinder.005|Portal Gun RigAction
+    7400022: Cube|GunShoot
+    7400024: Cube|Portal Gun RigAction
+    7400026: Cylinder.001|GunShoot
+    7400028: Cylinder.001|Portal Gun RigAction
+    7400030: Cylinder|GunShoot
+    7400032: Cylinder|Portal Gun RigAction
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: GunShooting
+      takeName: Portal Gun Rig|GunShooting
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Portal Gun Rig
+        weight: 1
+      - path: Portal Gun Rig/Main
+        weight: 1
+      - path: Portal Gun Rig/Main/Bone
+        weight: 1
+      - path: Portal Gun Rig/Main/Bone/Bone_end
+        weight: 1
+      - path: Portal Gun Rig/Main/Bone/Cube
+        weight: 1
+      - path: Portal Gun Rig/Main/Bone/Cylinder
+        weight: 1
+      - path: Portal Gun Rig/Main/Bone/Cylinder.001
+        weight: 1
+      - path: Portal Gun Rig/Main/Bone/Cylinder.005
+        weight: 1
+      - path: Portal Gun Rig/Main/Bone/Cylinder.005/Cylinder.005_MeshPart0
+        weight: 1
+      - path: Portal Gun Rig/Main/Bone/Cylinder.005/Cylinder.005_MeshPart1
+        weight: 1
+      - path: WGT _Slide
+        weight: 1
+      - path: WGT_Main
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: Main
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
