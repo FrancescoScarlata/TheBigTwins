@@ -1,0 +1,7 @@
+
+Cose da poter fare
+
+- Cercare sound effects per i rumori
+- Muovere la texture della lava per fare animazione
+- Fare delle particelle per gli eventi di brina e fusione
+- Migliorare la UI

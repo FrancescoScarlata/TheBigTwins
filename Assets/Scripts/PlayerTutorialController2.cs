@@ -105,7 +105,7 @@ public class PlayerTutorialController2 : MonoBehaviour {
         {
             Debug.Log("fatta la pic");
             System.DateTime now = System.DateTime.Now;
-            Application.CaptureScreenshot(string.Format("Screenshot_{0}{1}{2}{3}{4}{5}.png", now.Year, now.Month, now.Day, now.Hour, now.Minute, now.Second));
+            ScreenCapture.CaptureScreenshot(string.Format("Screenshot_{0}{1}{2}{3}{4}{5}.png", now.Year, now.Month, now.Day, now.Hour, now.Minute, now.Second));
         }
 
     }
