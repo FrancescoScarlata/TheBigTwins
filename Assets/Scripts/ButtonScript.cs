@@ -36,7 +36,7 @@ public class ButtonScript : MonoBehaviour {
 		if (PlayerPrefs.GetString("PreviousLevel")== "FireRun")
             SceneManager.LoadScene("FireBoss");
 		if (PlayerPrefs.GetString("PreviousLevel")== "FireBoss")
-            SceneManager.LoadScene("SplashScreen");
+            SceneManager.LoadScene("VideoScene");
         
 		}
 

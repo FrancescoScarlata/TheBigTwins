@@ -18,7 +18,7 @@ public class CreditButtonScript : MonoBehaviour {
 				return;
 			}
 			if(PlayerPrefs.GetString("PreviousLevel")=="FireBoss"){
-				testo.text= "You finished! go back to Menu";
+				testo.text= "Continue";
 				return;
 			}
 			if(PlayerPrefs.GetString("PreviousLevel")=="Tutorial"){

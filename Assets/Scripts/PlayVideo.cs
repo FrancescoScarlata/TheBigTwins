@@ -9,6 +9,7 @@ public class PlayVideo : MonoBehaviour {
     
         
 	void Start () {
+        audio = GetComponent<AudioSource>();
         Cursor.visible = false;
         GameObject oldmusic;
 		if(oldmusic=GameObject.FindGameObjectWithTag("ResultsTrack")){
