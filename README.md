@@ -1,29 +1,26 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
 
 ### What is this repository for? ###
 
 * Quick summary
+This is a Unity project. It's the project of Digital Game Development started in 2015 when i didn't know about git or good game design.
+It's just experience on Unity
 * Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+
 
 ### How do I get set up? ###
 
 * Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
+clone the repository and use open it with Unity
+
 * Deployment instructions
+Use the Standalone Setting
 
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
 
 ### Who do I talk to? ###
 
 * Repo owner or admin
+Francesco Scarlata
+mail: francescoscarl93@gmail.com
 * Other community or team contact
