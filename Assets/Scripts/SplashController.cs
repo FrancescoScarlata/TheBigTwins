@@ -46,4 +46,9 @@ public class SplashController : MonoBehaviour {
         SceneManager.LoadScene("tempMultiplayer");
     }
 
+    public void Exit()
+    {
+        Application.Quit();
+    }
+
 }
